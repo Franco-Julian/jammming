@@ -1,4 +1,4 @@
-const clientId = 'f01bdd46ce9a48e598704a5bf2d91417';
+const clientId = '';
 const redirectUri = 'different-experience.surge.sh';
 let accessToken;
 
